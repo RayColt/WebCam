@@ -10,4 +10,4 @@ First, grab image from web cam called Old. Second, grab another image from web c
 If difference is greater than tested value, then save the two pictures.<br />
 Finally, make the old picture the Cur picture. Back to second step (loop).
 <br /><br />
-<img src="https://github.com/RayColt/WebCam/tree/master/Resources/webcam.jpg" /><br />
+<img src="https://github.com/RayColt/WebCam/tree/master/Resources/webcam666.jpg" /><br />
